@@ -1,2 +1,2 @@
-# vue_sell
-app
+npm install
+npm run dev
